@@ -6,9 +6,9 @@ scorehud-version: 1
 # Changing titles of the scoreboard.
 # Can be of any number.
 server-names:
-- "§l§aServer §dName"
-- "§l§bServer §cName"
-- "§l§cServer §bName"
+- "§4lol §2mine
+- "
+- "§5добро §7пожаловать"
 - "§l§dServer §aName"
 
 # Note: You can find links to the required/supported plugins via the README.md.
@@ -28,7 +28,7 @@ server-names:
 #
 # For a list of addons go here https://github.com/JackMD/ScoreHud/blob/master/README.md#addons.
 score-lines:
-- " §aLine #1"
+- " §6 НОВЫЙ СЕРВЕР" 
 - " §bLine #2"
 - " §cLine #3"
 - " §dLine #4"
